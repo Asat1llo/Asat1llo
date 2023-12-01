@@ -1,10 +1,7 @@
 ![Header](https://github.com/Asat1llo/Asat1llo/blob/main/assets/frontend.jpg)
 
-About me
+Hi there, I'm Asadulloh 
 
-Lastest youtoob
+Frontend Developer
 
-laguage tools
-
-folllow me
 
